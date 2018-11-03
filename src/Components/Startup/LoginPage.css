@@ -1,0 +1,13 @@
+.LoginPage{
+    text-align: center;
+    width:max-content;
+    margin: auto;
+}
+.LoginPage Button{
+    width: 50%;
+    margin: 20px;
+}
+.LoginPage TextField{
+    width: 50%;
+    margin: 20px;    
+}

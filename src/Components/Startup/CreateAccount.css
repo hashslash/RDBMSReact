@@ -1,0 +1,13 @@
+.CreateAccount{
+  text-align: center;
+  width:max-content;
+  margin: auto;
+}
+.CreateAccount Button{
+  width: 50%;
+  margin: 20px;
+}
+.CreateAccount TextField{
+  width: 50%;
+  margin: 20px;    
+}
